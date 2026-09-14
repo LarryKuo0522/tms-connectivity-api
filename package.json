@@ -1,0 +1,13 @@
+{
+  "name": "tms-connectivity-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal connectivity test API for MuleSoft to TMS integration.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
